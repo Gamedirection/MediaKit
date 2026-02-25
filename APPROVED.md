@@ -1,25 +1,27 @@
 # APPROVED Collaborations
 
-## GameDirection.net
+## GameDirection
+Location: GameDirection.net + Socials + Product
+
 Contact: legal@gamedirection.net
 
 ## Cleveland-Print
-Location: Cleveland-Print.com
+Location: Cleveland-Print.com + Socials + Product
 
 Contact: legal@clevelandprint.com
 
 ## Violet-Knight
-Location: Violet-Knight.com
+Location: Violet-Knight.com + Socials + Product
 
 Contact: legal@violet-knight.com
 
 ## Sierputowski Estate
-Location: Sierputowski.com
+Location: Sierputowski.com + Socials + Product
 
 Contact: legal@sierputowski.com
 
 ## Previously Pluto
-Location: PreviouslyPluto.com
+Location: PreviouslyPluto.com + Socials + Product
 
 ---
 
