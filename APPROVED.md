@@ -21,7 +21,9 @@ Contact: legal@sierputowski.com
 ## Previously Pluto
 Location: PreviouslyPluto.com
 
+---
 
-_Unapproved use may result in legal action_
-
-Please contact legal@gamedirection.net for more information.
+> [!Warning]
+> _Unapproved use may result in legal action_
+>
+> Please contact legal@gamedirection.net for more information.
